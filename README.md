@@ -1,2 +1,3 @@
 # scalp-releases
-Installers for Scalp Terminal. Download the latest under Releases.
+nstallers for Scalp Terminal. Source is private. Download the latest
+under Releases.
